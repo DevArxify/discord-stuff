@@ -12,6 +12,15 @@ I saw these on one of [No Text To Speech](https://youtube.com/notexttospeech)'s 
 ## 3 - Weird login bug
 If you have the Color Schemes feature enabled, go to the 'Appearance' tab on your settings, and press ALT + left arrow key, you'll be taken to a weird bug which seems to be related to Discord's login page. It doesn't actually log you out, but it's fun to try. Here's a demo.<br><br>
 [![alt + left arrow glitch](https://res.cloudinary.com/marcomontalbano/image/upload/v1670460044/video_to_markdown/images/youtube--oauB6Lyrpm4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=oauB6Lyrpm4 "alt + left arrow glitch")
+## 4 - New 'Clips' Feature
+It seems like this beta feature doesn't have any code linked to it, because when you open it, it just crashes your Discord client. Here's a demo.<br><br>
+[![clips](https://res.cloudinary.com/marcomontalbano/image/upload/v1670498120/video_to_markdown/images/youtube--hyLCtZRqbds-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/hyLCtZRqbds "clips")
+## 5 - Pronouns
+This seems to be coming up soon, as it's fully coded. The only thing is that you can't save it (not yet). Here's a demo.<br><br>
+[![pronouns](https://res.cloudinary.com/marcomontalbano/image/upload/v1670498665/video_to_markdown/images/youtube--2pUW8J3LMfQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/2pUW8J3LMfQ "pronouns")
+## 6 - AutoMod in non-community servers
+There's an experimental feature in which you can add AutoMod to your server without it being a community. Here's a demo.<br><br>
+[![automod](https://res.cloudinary.com/marcomontalbano/image/upload/v1670499605/video_to_markdown/images/youtube--TXqh3hCYi00-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/TXqh3hCYi00 "automod")
 
 
 
@@ -19,5 +28,5 @@ If you have the Color Schemes feature enabled, go to the 'Appearance' tab on you
 
 
 # Extra
-For now, that's all. Tomorrow I'll continue searching for beta features and posting them here as I find them. As an update, the [profile slash commands](https://www.youtube.com/watch?v=UYKt4eX_F6o) are now patched.<br>
+As an update, the [profile slash commands](https://www.youtube.com/watch?v=UYKt4eX_F6o) are now patched.<br>
 Happy hunting! 
