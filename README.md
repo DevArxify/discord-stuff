@@ -40,6 +40,6 @@ There's an experimental feature in which you can add AutoMod to your server with
 ## 7 - Onboarding
 
 This feature is right now only available for a small amount of servers. This will come out soon to the public. Here's a demo.<br><br>
-[![onboarding](https://res.cloudinary.com/marcomontalbano/image/upload/v1671042971/video_to_markdown/images/youtube--Dja3B73gUDM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Dja3B73gUDM "onboarding")<br><br>
+[![onboarding](https://res.cloudinary.com/marcomontalbano/image/upload/v1671042971/video_to_markdown/images/youtube--Dja3B73gUDM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Dja3B73gUDM "onboarding")<br>
 
 Happy hunting!
