@@ -21,12 +21,8 @@ This seems to be coming up soon, as it's fully coded. The only thing is that you
 ## 6 - AutoMod in non-community servers
 There's an experimental feature in which you can add AutoMod to your server without it being a community. Here's a demo.<br><br>
 [![automod](https://res.cloudinary.com/marcomontalbano/image/upload/v1670499605/video_to_markdown/images/youtube--TXqh3hCYi00-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/TXqh3hCYi00 "automod")
+## 7 - Onboarding
+This feature is right now only available for a small amount of servers. This will come out soon to the public. Here's a demo.<br><br>
+[![onboarding](https://res.cloudinary.com/marcomontalbano/image/upload/v1671042971/video_to_markdown/images/youtube--Dja3B73gUDM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Dja3B73gUDM "onboarding")<br><br>
 
-
-
-
-
-
-# Extra
-As an update, the [profile slash commands](https://www.youtube.com/watch?v=UYKt4eX_F6o) are now patched.<br>
 Happy hunting! 
