@@ -1,5 +1,7 @@
 # Discord Stuff
 
+# This project is no longer mantained and will be outdated from now on.
+
 - Discord experimental features, bugs, etc.
 - Made by [Arxify](https://discord.com/users/975954277791047752)
 
